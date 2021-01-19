@@ -35,11 +35,9 @@ GIF created with [EZGIF.com](https://ezgif.com).
 
 ## Notes
 
-Everything went successful while implementing the code by following the guide, however, after a few times of restarting the simulator the Tap Gesture Recognizer stopped working, at first I thought this is caused by misckling something in the program as I'm not familiar with Xcode itself. However, the issue still remains after building a new project. 
+Everything went successful while implementing the code by following the guide, however, after a few tries of restarting the simulator the Tap Gesture Recognizer stopped working, same issue still remains after creating a new project. The workaround was to switch between simulating devices, after switching from iPhone 12 Pro to 11 Pro Max the Recognizer started working again without changing the context in the code. 
 
-The workaround was to switch between simulating devices, after switching from 12 Pro to 11 Pro Max the Recognizer started working again without any changes in the code itself. 
-
-The other issue I faced was I couldn't get the slider to work with the Tip Control to show the current Tip Percentage as this is the first time I code using Xcode, I'll be finding videos online to learn how to develop a better software using Xcode than the one I completed here.  
+I wanted to try out some of the optional features, however, I couldn't get the slider to work with the Tip Control to show the current Tip Percentage after numerous tries, so decided not to include it. I'll be finding videos online to learn how to develop a better software using Xcode than the one I completed here.  
 
 ## License
 
